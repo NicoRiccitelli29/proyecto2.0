@@ -1,0 +1,166 @@
+/* FONTS */
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fugaz+One&display=swap');
+
+/* FONTS */
+body{
+    background-attachment: fixed;
+    background-color: whitesmoke;
+
+}
+header{
+    width: 100%;
+    background: linear-gradient(to right,#7652bc 0%,#fa3295 100%) !important;
+    color: white;
+    
+
+}
+
+h2{
+    font-family: 'Fugaz One';
+    font-size: 50px !important;
+    text-align: center;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium';
+    font-size: 50px;
+    text-align: center;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.row {
+  margin-left: 20px !important;
+  margin-bottom: 20px;
+  margin-right: 20px;
+}
+
+#inputRow {
+    margin-bottom: 5px;
+}
+
+
+/* FONTS */
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+/* FONTS */
+footer{
+    background-color: black !important;
+    height: 20%;
+    color: white;
+    padding: 0 10px;
+    bottom: 0;
+    width: 100%;
+}
+
+footer ul{
+    list-style: none;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    list-style: none;
+    color: white;
+}
+
+footer ul li{
+    bottom: 0%;
+    font-family: Helvetica, sans-serif;
+    color: white;
+    list-style: none;
+    display: inline;
+    padding-left: 15x;
+    padding-right: 15px;
+    text-decoration: none;
+}
+.btn-danger{
+    float: right;
+}
+.mb-3{
+    width: 20%;
+    margin-left: 2.3%;
+}
+.contador{
+    background-color:#f8f9fa; /* Green */
+    border:#7952b3 solid 1px;
+    border-radius: 8px;
+    color: #7952b3;
+    padding: 15px 32px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    text-align:center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+}
+.botonReset{
+    background-color:#7952b3; 
+    border:white;
+    border-radius: 8px;
+    color: white;
+    padding: 15px 32px;
+    margin-right: 5px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#button-addon2 {
+    padding: 10px 39px;
+    color: white;
+    background-color: #fa3295;
+    border-color:  #fa3295;
+}
+
+#button-addon3 {
+    background-color: #7952b3;
+    border-color: #7952b3;
+    color: white
+}
+
+#button-addon4{
+    background-color: #7952b3;
+    border-color: #7952b3;
+    color: white
+}
+
+#botonTarjeta {
+    background-color: #fa3295;
+    border-color:  #fa3295;
+    color: white
+}
+
+#inputUsuario {
+    text-align: center;
+}
+
+#nav {
+    margin-bottom: 50px;
+    padding-bottom: 10px;
+}
+
+#titulo {
+    padding-top:10px;
+    padding-bottom:20px;
+    color: #7952b3;
+}
+ #rowButton {
+     padding-top:10px;
+     padding-bottom: 40px;
+     margin-bottom: 30px;
+ }
+
+ .fotoPerfil {
+     border-radius: 15px;
+     
+ }
+ 
